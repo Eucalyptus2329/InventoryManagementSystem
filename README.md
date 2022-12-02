@@ -1,6 +1,6 @@
 # InventoryManagementSystem
 
-InventoryManagementSystem
+
 -Create flat and modern form.
 
 -Create Side Menu.
